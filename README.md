@@ -2,7 +2,8 @@
 ![calendar](./calendar.png)
 
 # Rundown
-### Day00
+<details><summary><b>Day00</b></summary>
+
 0. naive search
 1. sort array
 2. binary search/half-interval search
@@ -12,8 +13,10 @@
 6.
 7.
 8.
+</details>
 
-### Day01
+<details><summary><b>Day01</b></summary>
+
 0.
 1.
 2.
@@ -23,8 +26,10 @@
 6.
 7.
 8.
+</details>
 
-### Day02
+<details><summary><b>Day02</b></summary>
+
 0. bubble sort
 1. insertion sort
 2. quick sort
@@ -35,3 +40,4 @@
 7.
 8.
 9.
+</details>
