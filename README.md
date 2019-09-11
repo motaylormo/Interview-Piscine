@@ -4,40 +4,46 @@
 # Rundown
 <details><summary><b>Day00</b></summary>
 
-0. naive search
-1. sort array
-2. binary search/half-interval search
-3. hash table
-4. Karp-Rabin string-search
-5.
-6.
-7.
-8.
+| exercise | concept |
+| -------: | :------ |
+| ex00 | naive search
+| ex01 | sort array
+| ex02 | binary search/half-interval search
+| ex03 | hash table
+| ex04 | Karp-Rabin string-search
+| ex05 |
+| ex06 |
+| ex07 |
+| ex08 |
 </details>
 
 <details><summary><b>Day01</b></summary>
 
-0.
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+| exercise | concept |
+| -------: | :------ |
+| ex00 |
+| ex01 |
+| ex02 |
+| ex03 |
+| ex04 |
+| ex05 |
+| ex06 |
+| ex07 |
+| ex08 |
 </details>
 
 <details><summary><b>Day02</b></summary>
 
-0. bubble sort
-1. insertion sort
-2. quick sort
-3. merge sort
-4. count sort
-5.
-6.
-7.
-8.
-9.
+| exercise | concept |
+| -------: | :------ |
+| ex00 | bubble sort
+| ex01 | insertion sort
+| ex02 | quick sort
+| ex03 | merge sort
+| ex04 | count sort
+| ex05 |
+| ex06 |
+| ex07 |
+| ex08 |
+| ex09 |
 </details>
