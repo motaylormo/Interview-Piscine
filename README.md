@@ -2,6 +2,7 @@
 ![calendar](./calendar.png)
 
 # Rundown
+### First week
 <details><summary><b>Day00</b></summary>
 
 | exercise | concept |
@@ -46,4 +47,17 @@
 | ex07 |
 | ex08 |
 | ex09 |
+</details>
+
+
+<details><summary><b>Day03</b></summary>
+
+| exercise | concept |
+| -------: | :------ |
+| ex00 | binary search tree
+| ex01 | binary search tree
+| ex02 | n-ary tree
+| ex03 | min-heap and max-heap
+| ex04 | max-heap
+| ex05 | trie/prefix tree
 </details>
