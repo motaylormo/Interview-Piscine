@@ -42,7 +42,7 @@
 | ex02 | quick sort
 | ex03 | merge sort
 | ex04 | count sort
-| ex05 |
+| ex05 | binary search with rotated array
 | ex06 | radix sort
 | ex07 | divide and conquer
 | ex08 | external sort
