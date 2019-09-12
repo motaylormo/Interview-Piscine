@@ -43,9 +43,9 @@
 | ex03 | merge sort
 | ex04 | count sort
 | ex05 |
-| ex06 |
-| ex07 |
-| ex08 |
+| ex06 | radix sort
+| ex07 | divide and conquer
+| ex08 | external sort
 | ex09 |
 </details>
 
