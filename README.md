@@ -61,3 +61,7 @@
 | ex04 | max-heap
 | ex05 | trie/prefix tree
 </details>
+
+### Second week
+
+### Rushes
