@@ -68,12 +68,12 @@
 
 | exercise | concept |
 | -------: | :------ |
-| ex00 |
-| ex01 |
-| ex02 |
-| ex03 |
-| ex04 |
-| ex05 |
+| ex00 | addition
+| ex01 | `&` and `|`
+| ex02 | bitshift
+| ex03 | xor
+| ex04 | check index bit
+| ex05 | unset bit
 | ex06 |
 | ex07 |
 | ex08 |
