@@ -90,3 +90,18 @@
 | ex19 |
 | ex20 |
 </details>
+
+<details><summary><b>Day05</b></summary>
+
+| exercise | concept |
+| -------: | :------ |
+| ex00 |
+| ex01 |
+| ex02 |
+| ex03 |
+| ex04 |
+| ex05 |
+| ex06 |
+| ex07 |
+| ex08 |
+</details>
