@@ -1,3 +1,6 @@
+![calendar](./calendar.png)
+
+## Rundown
 <table>
   <tr>
       <th>Day00</th>
@@ -7,46 +10,46 @@
   </tr>
   <tr valign="top">
     <td><ul>
-<li>-[x] ex00 (naive search)</li>
-<li>-[x] ex01 (sort array)</li>
-<li>-[x] ex02 (binary search/half-interval search)</li>
-<li>-[x] ex03 (hash table)</li>
-<li>-[x] ex04 (Karp-Rabin string-search)</li>
+<li>-[x] ex00 <sub>naive search<sub></li>
+<li>-[x] ex01 <sub>sort array<sub></li>
+<li>-[x] ex02 <sub>binary search/half-interval search<sub></li>
+<li>-[x] ex03 <sub>hash table<sub></li>
+<li>-[x] ex04 <sub>Karp-Rabin string-search<sub></li>
 <li>-[ ] ex05</li>
 <li>-[ ] ex06</li>
 <li>-[ ] ex07</li>
 <li>-[ ] ex08</li>
     </ul></td>
     <td><ul>
-<li>-[ ] ex00 (circular doubly linked list)</li>
-<li>-[ ] ex01 (singularly linked list)</li>
-<li>-[ ] ex02 (stack)</li>
-<li>-[ ] ex03 (singularly linked list)</li>
-<li>-[ ] ex04 (queue)</li>
-<li>-[ ] ex05 (stack)</li>
-<li>-[ ] ex06 (singularly linked list)</li>
-<li>-[ ] ex07 (weird doubly linked list)</li>
-<li>-[ ] ex08 (weird doubly linked list)</li>
+<li>-[ ] ex00 <sub>circular doubly linked list<sub></li>
+<li>-[ ] ex01 <sub>singularly linked list<sub></li>
+<li>-[ ] ex02 <sub>stack<sub></li>
+<li>-[ ] ex03 <sub>singularly linked list<sub></li>
+<li>-[ ] ex04 <sub>queue<sub></li>
+<li>-[ ] ex05 <sub>stack<sub></li>
+<li>-[ ] ex06 <sub>singularly linked list<sub></li>
+<li>-[ ] ex07 <sub>weird doubly linked list<sub></li>
+<li>-[ ] ex08 <sub>weird doubly linked list<sub></li>
     </ul></td>
     <td><ul>
-<li>-[x] ex00 (bubble sort)</li>
-<li>-[x] ex01 (insertion sort)</li>
-<li>-[x] ex02 (quick sort)</li>
-<li>-[x] ex03 (merge sort)</li>
-<li>-[x] ex04 (count sort)</li>
-<li>-[x] ex05 (binary search with rotated array)</li>
-<li>-[x] ex06 (radix sort)</li>
-<li>-[ ] ex07 (divide and conquer)</li>
-<li>-[ ] ex08 (external sort)</li>
+<li>-[x] ex00 <sub>bubble sort<sub></li>
+<li>-[x] ex01 <sub>insertion sort<sub></li>
+<li>-[x] ex02 <sub>quick sort<sub></li>
+<li>-[x] ex03 <sub>merge sort<sub></li>
+<li>-[x] ex04 <sub>count sort<sub></li>
+<li>-[x] ex05 <sub>binary search with rotated array<sub></li>
+<li>-[x] ex06 <sub>radix sort<sub></li>
+<li>-[ ] ex07 <sub>divide and conquer<sub></li>
+<li>-[ ] ex08 <sub>external sort<sub></li>
 <li>-[ ] ex09</li>
     </ul></td>
     <td><ul>
-<li>-[ ] ex00 (binary search tree)</li>
-<li>-[ ] ex01 (binary search tree)</li>
-<li>-[ ] ex02 (n-ary tree)</li>
-<li>-[ ] ex03 (min-heap and max-heap)</li>
-<li>-[ ] ex04 (max-heap)</li>
-<li>-[ ] ex05 (trie/prefix tree)</li>
+<li>-[ ] ex00 <sub>binary search tree<sub></li>
+<li>-[ ] ex01 <sub>binary search tree<sub></li>
+<li>-[ ] ex02 <sub>n-ary tree<sub></li>
+<li>-[ ] ex03 <sub>min-heap and max-heap<sub></li>
+<li>-[ ] ex04 <sub>max-heap<sub></li>
+<li>-[ ] ex05 <sub>trie/prefix tree<sub></li>
     </ul></td>
   </tr>
   <tr>
@@ -57,12 +60,12 @@
   </tr>
   <tr valign="top">
     <td><ul>
-<li>-[ ] ex00 (addition)</li>
-<li>-[ ] ex01 (<code>&</code> and <code>|</code>)</li>
-<li>-[ ] ex02 (bitshift)</li>
-<li>-[ ] ex03 (xor)</li>
-<li>-[ ] ex04 (check index bit)</li>
-<li>-[ ] ex05 (unset bit)</li>
+<li>-[ ] ex00 <sub>addition<sub></li>
+<li>-[ ] ex01 <sub><code>&</code> and <code>|</code><sub></li>
+<li>-[ ] ex02 <sub>bitshift<sub></li>
+<li>-[ ] ex03 <sub>xor<sub></li>
+<li>-[ ] ex04 <sub>check index bit<sub></li>
+<li>-[ ] ex05 <sub>unset bit<sub></li>
 <li>-[ ] ex06</li>
 <li>-[ ] ex07</li>
 <li>-[ ] ex08</li>
