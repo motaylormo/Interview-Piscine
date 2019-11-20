@@ -3,14 +3,13 @@
 
 # Rundown
 <table>
-  <tr></tr>
   <tr>
       <th>Day00</th>
       <th>Day01</th>
       <th>Day02</th>
       <th>Day03</th>
   </tr>
-  <tr>
+  <tr valign="top">
     <td><ul>
 <li>-[x] <code>ex00</code> naive search</li>
 <li>-[x] <code>ex01</code> sort array</li>
@@ -60,7 +59,7 @@
       <th>Day06</th>
       <th>Day07</th>
   </tr>
-  <tr>
+  <tr valign="top">
     <td><ul>
 <li>-[ ] <code>ex00</code> addition</li>
 <li>-[ ] <code>ex01</code> <code>&</code> and <code>|</code></li>
