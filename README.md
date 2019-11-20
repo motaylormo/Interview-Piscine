@@ -3,6 +3,7 @@
 
 # Rundown
 <table>
+  <tr></tr>
   <tr>
       <th>Day00</th>
       <th>Day01</th>
@@ -23,14 +24,14 @@
     </ul></td>
     <td><ul>
 <li>-[ ] <code>ex00</code> circular doubly linked list</li>
-<li>-[ ] <code>ex01</code> linked list</li>
+<li>-[ ] <code>ex01</code> singularly linked list</li>
 <li>-[ ] <code>ex02</code> stack</li>
-<li>-[ ] <code>ex03</code></li>
-<li>-[ ] <code>ex04</code></li>
-<li>-[ ] <code>ex05</code></li>
-<li>-[ ] <code>ex06</code></li>
-<li>-[ ] <code>ex07</code></li>
-<li>-[ ] <code>ex08</code></li>
+<li>-[ ] <code>ex03</code> singularly linked list</li>
+<li>-[ ] <code>ex04</code> queue</li>
+<li>-[ ] <code>ex05</code> stack</li>
+<li>-[ ] <code>ex06</code> singularly linked list</li>
+<li>-[ ] <code>ex07</code> weird doubly linked list</li>
+<li>-[ ] <code>ex08</code> weird doubly linked list</li>
     </ul></td>
     <td><ul>
 <li>-[x] <code>ex00</code> bubble sort</li>
