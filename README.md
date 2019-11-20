@@ -2,94 +2,114 @@
 ![calendar](./calendar.png)
 
 # Rundown
-### First week
-<details><summary><b>Day00</b></summary>
-  
-* [x] `ex00` naive search
-* [x] `ex01` sort array
-* [x] `ex02` binary search/half-interval search
-* [x] `ex03` hash table
-* [x] `ex04` Karp-Rabin string-search
-* [ ] `ex05`
-* [ ] `ex06`
-* [ ] `ex07`
-* [ ] `ex08`
-</details>
-
-<details><summary><b>Day01</b></summary>
-
-* [ ] `ex00`
-* [ ] `ex01`
-* [ ] `ex02`
-* [ ] `ex03`
-* [ ] `ex04`
-* [ ] `ex05`
-* [ ] `ex06`
-* [ ] `ex07`
-* [ ] `ex08`
-</details>
-
-<details><summary><b>Day02</b></summary>
-
-* [x] `ex00` bubble sort
-* [x] `ex01` insertion sort
-* [x] `ex02` quick sort
-* [x] `ex03` merge sort
-* [x] `ex04` count sort
-* [x] `ex05` binary search with rotated array
-* [x] `ex06` radix sort
-* [ ] `ex07` divide and conquer
-* [ ] `ex08` external sort
-* [ ] `ex09`
-</details>
-
-
-<details><summary><b>Day03</b></summary>
-
-* [ ] `ex00` binary search tree
-* [ ] `ex01` binary search tree
-* [ ] `ex02` n-ary tree
-* [ ] `ex03` min-heap and max-heap
-* [ ] `ex04` max-heap
-* [ ] `ex05` trie/prefix tree
-</details>
-
-### Second week
-
-<details><summary><b>Day04</b></summary>
-
-* [ ] `ex00` addition
-* [ ] `ex01` `&` and `|`
-* [ ] `ex02` bitshift
-* [ ] `ex03` xor
-* [ ] `ex04` check index bit
-* [ ] `ex05` unset bit
-* [ ] `ex06`
-* [ ] `ex07`
-* [ ] `ex08`
-* [ ] `ex09`
-* [ ] `ex10`
-* [ ] `ex11`
-* [ ] `ex12`
-* [ ] `ex13`
-* [ ] `ex14`
-* [ ] `ex15`
-* [ ] `ex16`
-* [ ] `ex17`
-* [ ] `ex18`
-* [ ] `ex19`
-* [ ] `ex20`
-</details>
-
-<details><summary><b>Day05</b></summary>
-
-* [ ] `ex00`
-* [ ] `ex01`
-* [ ] `ex02`
-* [ ] `ex03`
-* [ ] `ex04`
-* [ ] `ex05`
-* [ ] `ex06`
-* [ ] `ex07`
-* [ ] `ex08`
-</details>
+<table>
+  <tr>
+      <th>Day00</th>
+      <th>Day01</th>
+      <th>Day02</th>
+      <th>Day03</th>
+  </tr>
+  <tr>
+    <td><ul>
+<li>-[x] <code>ex00</code> naive search</li>
+<li>-[x] <code>ex01</code> sort array</li>
+<li>-[x] <code>ex02</code> binary search/half-interval search</li>
+<li>-[x] <code>ex03</code> hash table</li>
+<li>-[x] <code>ex04</code> Karp-Rabin string-search</li>
+<li>-[ ] <code>ex05</code></li>
+<li>-[ ] <code>ex06</code></li>
+<li>-[ ] <code>ex07</code></li>
+<li>-[ ] <code>ex08</code></li>
+    </ul></td>
+    <td><ul>
+<li>-[ ] <code>ex00</code></li>
+<li>-[ ] <code>ex01</code></li>
+<li>-[ ] <code>ex02</code></li>
+<li>-[ ] <code>ex03</code></li>
+<li>-[ ] <code>ex04</code></li>
+<li>-[ ] <code>ex05</code></li>
+<li>-[ ] <code>ex06</code></li>
+<li>-[ ] <code>ex07</code></li>
+<li>-[ ] <code>ex08</code></li>
+    </ul></td>
+    <td><ul>
+<li>-[x] <code>ex00</code> bubble sort</li>
+<li>-[x] <code>ex01</code> insertion sort</li>
+<li>-[x] <code>ex02</code> quick sort</li>
+<li>-[x] <code>ex03</code> merge sort</li>
+<li>-[x] <code>ex04</code> count sort</li>
+<li>-[x] <code>ex05</code> binary search with rotated array</li>
+<li>-[x] <code>ex06</code> radix sort</li>
+<li>-[ ] <code>ex07</code> divide and conquer</li>
+<li>-[ ] <code>ex08</code> external sort</li>
+<li>-[ ] <code>ex09</code></li>
+    </ul></td>
+    <td><ul>
+<li>-[ ] <code>ex00</code> binary search tree</li>
+<li>-[ ] <code>ex01</code> binary search tree</li>
+<li>-[ ] <code>ex02</code> n-ary tree</li>
+<li>-[ ] <code>ex03</code> min-heap and max-heap</li>
+<li>-[ ] <code>ex04</code> max-heap</li>
+<li>-[ ] <code>ex05</code> trie/prefix tree</li>
+    </ul></td>
+  </tr>
+  <tr>
+      <th>Day04</th>
+      <th>Day05</th>
+      <th>Day06</th>
+      <th>Day07</th>
+  </tr>
+  <tr>
+    <td><ul>
+<li>-[ ] <code>ex00</code> addition</li>
+<li>-[ ] <code>ex01</code> <code>&</code> and <code>|</code></li>
+<li>-[ ] <code>ex02</code> bitshift</li>
+<li>-[ ] <code>ex03</code> xor</li>
+<li>-[ ] <code>ex04</code> check index bit</li>
+<li>-[ ] <code>ex05</code> unset bit</li>
+<li>-[ ] <code>ex06</code></li>
+<li>-[ ] <code>ex07</code></li>
+<li>-[ ] <code>ex08</code></li>
+<li>-[ ] <code>ex09</code></li>
+<li>-[ ] <code>ex10</code></li>
+<li>-[ ] <code>ex11</code></li>
+<li>-[ ] <code>ex12</code></li>
+<li>-[ ] <code>ex13</code></li>
+<li>-[ ] <code>ex14</code></li>
+<li>-[ ] <code>ex15</code></li>
+<li>-[ ] <code>ex16</code></li>
+<li>-[ ] <code>ex17</code></li>
+<li>-[ ] <code>ex18</code></li>
+<li>-[ ] <code>ex19</code></li>
+<li>-[ ] <code>ex20</code></li>
+    </ul></td>
+    <td><ul>
+<li>-[ ] <code>ex00</code></li>
+<li>-[ ] <code>ex01</code></li>
+<li>-[ ] <code>ex02</code></li>
+<li>-[ ] <code>ex03</code></li>
+<li>-[ ] <code>ex04</code></li>
+<li>-[ ] <code>ex05</code></li>
+<li>-[ ] <code>ex06</code></li>
+<li>-[ ] <code>ex07</code></li>
+<li>-[ ] <code>ex08</code></li>
+    </ul></td>
+    <td><ul>
+<li>-[ ] <code>ex00</code></li>
+<li>-[ ] <code>ex01</code></li>
+<li>-[ ] <code>ex02</code></li>
+<li>-[ ] <code>ex03</code></li>
+<li>-[ ] <code>ex04</code></li>
+<li>-[ ] <code>ex05</code></li>
+<li>-[ ] <code>ex06</code></li>
+    </ul></td>
+    <td><ul>
+<li>-[ ] <code>ex00</code></li>
+<li>-[ ] <code>ex01</code></li>
+<li>-[ ] <code>ex02</code></li>
+<li>-[ ] <code>ex03</code></li>
+<li>-[ ] <code>ex04</code></li>
+<li>-[ ] <code>ex05</code></li>
+    </ul></td>
+  </tr>
+</table>
