@@ -22,9 +22,9 @@
 <li>-[ ] <code>ex08</code></li>
     </ul></td>
     <td><ul>
-<li>-[ ] <code>ex00</code></li>
-<li>-[ ] <code>ex01</code></li>
-<li>-[ ] <code>ex02</code></li>
+<li>-[ ] <code>ex00</code> circular doubly linked list</li>
+<li>-[ ] <code>ex01</code> linked list</li>
+<li>-[ ] <code>ex02</code> stack</li>
 <li>-[ ] <code>ex03</code></li>
 <li>-[ ] <code>ex04</code></li>
 <li>-[ ] <code>ex05</code></li>
