@@ -1,0 +1,3 @@
+~Quick sort~
+time:	O(n log n)
+space:	O(log n)

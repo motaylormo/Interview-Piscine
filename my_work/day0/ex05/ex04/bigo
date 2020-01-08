@@ -1,0 +1,5 @@
+time complexity:
+	Rabin-karp is O(n + m) where n is the str len and m is the str len + pattern len
+
+space complexity:
+	O(1)

@@ -1,0 +1,5 @@
+time complexity:
+	binary serach is O(log n)
+
+space complexity:
+	O(1)

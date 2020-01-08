@@ -1,0 +1,5 @@
+time complexity:
+	for a search, it's O(1) at best or O(number of collisions) at worst
+
+space complexity:
+	hash map O(n)

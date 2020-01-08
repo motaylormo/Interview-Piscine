@@ -1,0 +1,5 @@
+time complexity:
+	O(n), where n is each char in the file
+
+space complexity:
+	O(1)

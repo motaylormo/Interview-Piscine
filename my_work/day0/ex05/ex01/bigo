@@ -1,0 +1,6 @@
+time complexity:
+	Most quicksorts are O(n log n)
+	My DIY sort is a selection sort, which is O(n^2)
+
+space complexity:
+	O(1)
